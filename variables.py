@@ -19,7 +19,7 @@
 #
 #   Définir la bonne variable pour faire fonctionner le code ci-dessous.
 #
-#   Savoirs-faires :gqsdhsg
+#   Savoirs-faires :
 #       créer une variable et lui affecter une valeur
 
 # ... Écrivez votre code ici ...
